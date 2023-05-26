@@ -1,1 +1,1 @@
-GET http://44.213.111.179:8085/
+GET http://infra-wslbc-x32z8zdnbazo-385984179.us-east-1.elb.amazonaws.com/

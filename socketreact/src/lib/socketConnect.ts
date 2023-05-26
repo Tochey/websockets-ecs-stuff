@@ -1,6 +1,6 @@
 import { io } from "socket.io-client"
 
-const wsSocket = io('http://44.213.111.179:8086/', {
+const wsSocket = io('ws://localhost:8085', {
     autoConnect: false,
 });
 
